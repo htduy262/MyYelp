@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailViewController.businessData.didset:DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "avatarImageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FiltersViewController.onTapSeeAllCell() -&gt; ():FiltersViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.cellForRow(at: NSIndexPath(row: 0, section: 4) as IndexPath) as! SeeAllCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
